@@ -35,5 +35,5 @@ class Clock extends React.Component {
   }
 }
 
-ReactDOM.render(<Clock />, document.getElementById("root"));
+//ReactDOM.render(<Clock />, document.getElementById("root"));
 //setInterval function callss tick after 1 sec
